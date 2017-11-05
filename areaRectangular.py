@@ -5,7 +5,7 @@ area = length * bredth
 
 print("area of rectangular " + str(area))
 
-perimeter = 2(length + bredth)
+perimeter = 2 * (length + bredth)
 
 print(perimeter)
 
